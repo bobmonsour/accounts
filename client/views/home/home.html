@@ -1,0 +1,21 @@
+<template name="home">
+  <head>
+    <title>accounts - test accounts-templates-bootstrap</title>
+  </head>
+
+  <body>
+
+    <div class="col-lg-4 col-lg-offset-4">
+      <h1>accounts</h1>
+      <h4>test app for accounts-templates-bootstrap</h4>
+
+      <button id="signin" type="button" class="btn btn-primary">go to sign in / sign up page</button>
+    
+      {{#if currentUser}}
+        <p>Logged in as {{nameOfCurrentUser}}</p>
+        <button id="logout" type="button" class="btn btn-info">logout</button>
+      {{/if}}
+    </div>
+
+  </body>
+</template>

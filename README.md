@@ -1,7 +1,5 @@
-Reproduction for issues 78 and 79
-
-https://github.com/splendido/accounts-templates-core/issues/78
-https://github.com/splendido/accounts-templates-core/issues/79
+Reproduction for issue 78: https://github.com/splendido/accounts-templates-core/issues/78
+Reproduction for issue 79: https://github.com/splendido/accounts-templates-core/issues/79
 
 accounts
 ========

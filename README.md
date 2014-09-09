@@ -1,5 +1,6 @@
 Reproduction for issue 78: https://github.com/splendido/accounts-templates-core/issues/78
 Reproduction for issue 79: https://github.com/splendido/accounts-templates-core/issues/79
+Reproduction for issue 80: https://github.com/splendido/accounts-templates-core/issues/80
 
 For issue #78: Poor validation when no displayName provided
 

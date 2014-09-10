@@ -1,5 +1,5 @@
 Template.signin.events({
-  'click button': function () {
+  'click #home-button': function () {
     Router.go('home');
   }
 });

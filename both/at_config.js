@@ -69,7 +69,7 @@ AccountsTemplates.addField({
 AccountsTemplates.addField({
     _id: 'username_and_email',
     type: 'text',
-    placeholder: "name or email",
+    placeholder: "Name or Email",
     required: true,
     errStr: "bad login"
 });
@@ -81,8 +81,8 @@ AccountsTemplates.addField({
     required: true,
     minLength: 6,
     placeholder: {
-      signUp: 'password (at least 6 characters)',
-      signIn: 'password'
+      signUp: 'Password (at least 6 characters)',
+      signIn: 'Password'
     }
 });
 
